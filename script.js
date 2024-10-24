@@ -83,7 +83,10 @@ const typeColor = {
             </div>
             
           </div>
-
+        <p class="flavortxt";>
+          <span>About</span>
+            ${id}
+        </p>
           
     `;
     appendTypes(data.types);
