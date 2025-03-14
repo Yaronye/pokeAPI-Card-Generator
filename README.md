@@ -8,4 +8,4 @@ Goals:
 - html, javascript practice
 - API integrations,
 - add more features (pokedex entry, number, better graphics)
-- further ideas; animation elements, cirtual pet, generate nature and stats, generate specific pokemons from the show/ belonging to trainers (add parameters)
+- further ideas; animation elements, virtual pet, generate nature and stats, generate specific pokemons from the show/ belonging to trainers (add parameters)
