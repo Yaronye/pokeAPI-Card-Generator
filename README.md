@@ -1,7 +1,7 @@
 # pokeAPI-Card-Generator
 Using the PokeAPI and following a tutorial to practice API integrations.
 
-Turotial: https://codingartistweb.com/2021/09/pokemon-card-generator-javascript/
+Tutorial: https://codingartistweb.com/2021/09/pokemon-card-generator-javascript/
 API: https://pokeapi.co/
 
 Goals: 
