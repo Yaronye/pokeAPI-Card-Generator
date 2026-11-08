@@ -1,4 +1,5 @@
 # Pokémon Card Generator
+![sample](pokecard-example.png)
 
 A single-page web app that generates a random Pokémon trading card from live [PokéAPI](https://pokeapi.co/) data. Each click of **Generate** fetches a new Pokémon and renders a card themed to its type.
 
