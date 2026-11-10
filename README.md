@@ -10,7 +10,7 @@ Built with vanilla HTML, CSS, and JavaScript, with no frameworks or build step. 
 - **Random generation:** picks one of the original 150 Pokémon on each click and on page load
 - **Live API data:** displays name, Pokédex number, HP, Attack, Defense, Speed, types, and official artwork
 - **Type-based theming:** card background and type badges are colored from the Pokémon's primary type
-- **Pokédex entry (my addition):** a second request to the `pokemon-species` endpoint fetches the English flavor text and cleans up its line-break characters before display
+- **Pokédex entry:** a second request to the `pokemon-species` endpoint fetches the English flavor text and cleans up its line-break characters before display
 - **Dynamic rendering:** the card is built from a template literal and injected into the DOM on every generation
 
 ## How It Works
